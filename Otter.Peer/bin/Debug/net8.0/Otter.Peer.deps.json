@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otter.Peer/1.0.0": {
+        "runtime": {
+          "Otter.Peer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otter.Peer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

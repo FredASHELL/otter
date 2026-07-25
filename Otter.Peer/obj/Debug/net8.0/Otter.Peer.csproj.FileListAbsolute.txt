@@ -1,0 +1,11 @@
+/home/pug/Otter/src/Otter.Peer/bin/Debug/net8.0/Otter.Peer.deps.json
+/home/pug/Otter/src/Otter.Peer/bin/Debug/net8.0/Otter.Peer.dll
+/home/pug/Otter/src/Otter.Peer/bin/Debug/net8.0/Otter.Peer.pdb
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.GeneratedMSBuildEditorConfig.editorconfig
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.AssemblyInfoInputs.cache
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.AssemblyInfo.cs
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.csproj.CoreCompileInputs.cache
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.dll
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/refint/Otter.Peer.dll
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/Otter.Peer.pdb
+/home/pug/Otter/src/Otter.Peer/obj/Debug/net8.0/ref/Otter.Peer.dll

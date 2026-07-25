@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E38E2161-7650-437F-8796-6A851F7C86F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter.Cli", "src\Otter.Cli\Otter.Cli.csproj", "{A2AA7909-98C1-4EDF-920D-19F98B67F490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter.Bencode", "src\Otter.Bencode\Otter.Bencode.csproj", "{AB9A6921-45DE-4634-A881-DD8C423DE5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter.Torrent", "src\Otter.Torrent\Otter.Torrent.csproj", "{45EE6896-F670-4818-BC08-C3B4A7044968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter.Tracker", "src\Otter.Tracker\Otter.Tracker.csproj", "{99D998B8-08AE-4310-836E-1FB6844439FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter.Peer", "src\Otter.Peer\Otter.Peer.csproj", "{D3BCDA3A-4D0C-4F83-892F-A88759881311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AA7909-98C1-4EDF-920D-19F98B67F490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AA7909-98C1-4EDF-920D-19F98B67F490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AA7909-98C1-4EDF-920D-19F98B67F490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AA7909-98C1-4EDF-920D-19F98B67F490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9A6921-45DE-4634-A881-DD8C423DE5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9A6921-45DE-4634-A881-DD8C423DE5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9A6921-45DE-4634-A881-DD8C423DE5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9A6921-45DE-4634-A881-DD8C423DE5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EE6896-F670-4818-BC08-C3B4A7044968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EE6896-F670-4818-BC08-C3B4A7044968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EE6896-F670-4818-BC08-C3B4A7044968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EE6896-F670-4818-BC08-C3B4A7044968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D998B8-08AE-4310-836E-1FB6844439FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D998B8-08AE-4310-836E-1FB6844439FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D998B8-08AE-4310-836E-1FB6844439FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D998B8-08AE-4310-836E-1FB6844439FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BCDA3A-4D0C-4F83-892F-A88759881311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BCDA3A-4D0C-4F83-892F-A88759881311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BCDA3A-4D0C-4F83-892F-A88759881311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BCDA3A-4D0C-4F83-892F-A88759881311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2AA7909-98C1-4EDF-920D-19F98B67F490} = {E38E2161-7650-437F-8796-6A851F7C86F4}
+		{AB9A6921-45DE-4634-A881-DD8C423DE5B3} = {E38E2161-7650-437F-8796-6A851F7C86F4}
+		{45EE6896-F670-4818-BC08-C3B4A7044968} = {E38E2161-7650-437F-8796-6A851F7C86F4}
+		{99D998B8-08AE-4310-836E-1FB6844439FA} = {E38E2161-7650-437F-8796-6A851F7C86F4}
+		{D3BCDA3A-4D0C-4F83-892F-A88759881311} = {E38E2161-7650-437F-8796-6A851F7C86F4}
+	EndGlobalSection
+EndGlobal
